@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9276ba4c-9291-4bec-85d2-f37ad20281bd" name="Default Changelist" comment="" />
+    <list default="true" id="9276ba4c-9291-4bec-85d2-f37ad20281bd" name="Default Changelist" comment="2020-05-05">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0002. Add Two Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0045. Jump Game II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0053. Maximum Subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0070. Climbing Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0098. Validate Binary Search Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0424. Longest Repeating Character Replacement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0001. Two Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/0001. Two Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0005. Longest Palindromic Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/0005. Longest Palindromic Substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0056. Merge Intervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/0056. Merge Intervals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0409. Longest Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/0409. Longest Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1385. Find the Distance Value Between Two Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/1385. Find the Distance Value Between Two Arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1387. Sort Integers by The Power Value.py" beforeDir="false" afterPath="$PROJECT_DIR$/1387. Sort Integers by The Power Value.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="321" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1al4fzpP6fL7ufZ8ScmYCEtf4qb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,11 +44,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../py-tutorital" />
   </component>
-  <component name="RunManager" selected="Python.0005. Longest Palindromic Substring">
-    <configuration name="0001. Two Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0098. Validate Binary Search Tree">
+    <configuration name="0045. Jump Game II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="shezzer-leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -32,7 +62,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0001. Two Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0045. Jump Game II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -41,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0005. Longest Palindromic Substring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0053. Maximum Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="shezzer-leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +84,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0005. Longest Palindromic Substring.py" />
+      <option name="SCRIPT_NAME" value="D:\Projects\shezzer-leetcode\0053. Maximum Subarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1387. Sort Integers by The Power Value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0070. Climbing Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="shezzer-leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +106,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1387. Sort Integers by The Power Value.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0070. Climbing Stairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0098. Validate Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shezzer-leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0098. Validate Binary Search Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="0424. Longest Repeating Character Replacement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="shezzer-leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0424. Longest Repeating Character Replacement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,9 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0005. Longest Palindromic Substring" />
-        <item itemvalue="Python.1387. Sort Integers by The Power Value" />
-        <item itemvalue="Python.0001. Two Sum" />
+        <item itemvalue="Python.0098. Validate Binary Search Tree" />
+        <item itemvalue="Python.0045. Jump Game II" />
+        <item itemvalue="Python.0424. Longest Repeating Character Replacement" />
+        <item itemvalue="Python.0053. Maximum Subarray" />
+        <item itemvalue="Python.0070. Climbing Stairs" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +181,13 @@
       <updated>1587296953179</updated>
       <workItem from="1587296956850" duration="55000" />
       <workItem from="1587297111588" duration="23000" />
+      <workItem from="1587720295477" duration="2078000" />
+      <workItem from="1588187804393" duration="3972000" />
+      <workItem from="1588216855674" duration="3231000" />
+      <workItem from="1588387292156" duration="599000" />
+      <workItem from="1588493957500" duration="4139000" />
+      <workItem from="1588582061252" duration="3694000" />
+      <workItem from="1588666439353" duration="9824000" />
     </task>
     <servers />
   </component>
@@ -112,26 +195,69 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1663" height="277" key="GridCell.Tab.0.bottom" timestamp="1587297011787">
+    <state x="463" y="106" key="CommitChangelistDialog2" timestamp="1588687245029">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="277" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1587297011787" />
-    <state width="1663" height="277" key="GridCell.Tab.0.center" timestamp="1587297011787">
+    <state x="463" y="106" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1588687245029" />
+    <state x="634" y="269" key="FileChooserDialogImpl" timestamp="1588667054212">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="277" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1587297011787" />
-    <state width="1663" height="277" key="GridCell.Tab.0.left" timestamp="1587297011787">
+    <state x="634" y="269" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1588667054212" />
+    <state width="1663" height="277" key="GridCell.Tab.0.bottom" timestamp="1588685471560">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="277" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1587297011787" />
-    <state width="1663" height="277" key="GridCell.Tab.0.right" timestamp="1587297011787">
+    <state width="1663" height="277" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1588685471560" />
+    <state width="1663" height="277" key="GridCell.Tab.0.center" timestamp="1588685471560">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state width="1663" height="277" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1587297011787" />
+    <state width="1663" height="277" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1588685471560" />
+    <state width="1663" height="277" key="GridCell.Tab.0.left" timestamp="1588685471560">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1588685471560" />
+    <state width="1663" height="277" key="GridCell.Tab.0.right" timestamp="1588685471560">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1588685471560" />
+    <state width="1663" height="342" key="GridCell.Tab.1.bottom" timestamp="1588685466919">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="342" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1588685466919" />
+    <state width="1663" height="342" key="GridCell.Tab.1.center" timestamp="1588685466919">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="342" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1588685466919" />
+    <state width="1663" height="342" key="GridCell.Tab.1.left" timestamp="1588685466919">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="342" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1588685466919" />
+    <state width="1663" height="342" key="GridCell.Tab.1.right" timestamp="1588685466919">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="342" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1588685466919" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588666449308">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1588666449308" />
+    <state x="534" y="246" width="638" height="534" key="find.popup" timestamp="1588188818055">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="534" y="246" width="638" height="534" key="find.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1588188818055" />
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1588685569925">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1588685569925" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shezzer_leetcode$0053__Maximum_Subarray.coverage" NAME="0053. Maximum Subarray Coverage Results" MODIFIED="1588583218705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shezzer_leetcode$0424__Longest_Repeating_Character_Replacement.coverage" NAME="0424. Longest Repeating Character Replacement Coverage Results" MODIFIED="1588586209572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shezzer_leetcode$0098__Validate_Binary_Search_Tree.coverage" NAME="0098. Validate Binary Search Tree Coverage Results" MODIFIED="1588685471555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shezzer_leetcode$0045__Jump_Game_II.coverage" NAME="0045. Jump Game II Coverage Results" MODIFIED="1588668030632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/shezzer_leetcode$1387__Sort_Integers_by_The_Power_Value.coverage" NAME="1387. Sort Integers by The Power Value Coverage Results" MODIFIED="1587297000120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shezzer_leetcode$0002__Add_Two_Numbers.coverage" NAME="0002. Add Two Numbers Coverage Results" MODIFIED="1588225655854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/shezzer_leetcode$0005__Longest_Palindromic_Substring.coverage" NAME="0005. Longest Palindromic Substring Coverage Results" MODIFIED="1587297007462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/shezzer_leetcode$0001__Two_Sum.coverage" NAME="0001. Two Sum Coverage Results" MODIFIED="1587296963394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shezzer_leetcode$53__Maximum_Subarray.coverage" NAME="53. Maximum Subarray Coverage Results" MODIFIED="1588496811548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shezzer_leetcode$0001__Two_Sum.coverage" NAME="0001. Two Sum Coverage Results" MODIFIED="1588191142037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shezzer_leetcode$0070__Climbing_Stairs.coverage" NAME="0070. Climbing Stairs Coverage Results" MODIFIED="1588494622779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -7,8 +7,8 @@ from typing import List
 
 
 # 1385. 两个数组间的距离值
+# easy
 # 数组
-
 
 class Solution:
     # Solution 1

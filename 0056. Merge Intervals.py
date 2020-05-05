@@ -6,9 +6,11 @@ from typing import List
 
 
 # 56. 合并区间
+# medium
 # 排序 数组
 
 class Solution:
+    # Solution
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         intervals.sort(key=lambda x: x[0])
         merged = []

@@ -6,6 +6,7 @@ from typing import List
 
 
 # 1. 两数之和
+# easy
 # 数组 哈希表
 
 class Solution:

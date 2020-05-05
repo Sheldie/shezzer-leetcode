@@ -6,9 +6,11 @@ from collections import Counter
 
 
 # 409. 最长回文串
+# easy
 # 哈希表
 
 class Solution:
+    # Solution
     def longestPalindrome(self, s: str) -> int:
         ans = 0
         count = Counter(s)

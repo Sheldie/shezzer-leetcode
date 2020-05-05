@@ -4,6 +4,7 @@ __author__ = 'Shezzer'
 
 
 # 5. 最长回文子串
+# medium
 # 字符串 动态规划
 # https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zhong-xin-kuo-san-dong-tai-gui-hua-by-liweiwei1419/
 
